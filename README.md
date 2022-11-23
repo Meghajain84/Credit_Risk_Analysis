@@ -45,7 +45,7 @@ The summary describes the recommendation of model to use to predict credit card 
 * <font color="blue"> Precision (High/Low risk): .01/1 </font>
 * <font color="blue"> Recall (High/Low risk): .70/.57 </font>
 
-<font color="blue"> Both balanced accuracy score and recall for high risk are not looking great. </font>
+<font color="blue"> Balanced accuracy score is not that great, but recall for high risk is better than above models. </font>
 
 ### Balanced Random Forest Classifier
 ![BalanceRandomForest](https://github.com/Meghajain84/Credit_Risk_Analysis/blob/main/BalanceRandomForest.PNG)
@@ -63,7 +63,7 @@ The summary describes the recommendation of model to use to predict credit card 
 * <font color="blue"> Precision (High/Low risk): .07/1 </font>
 * <font color="blue"> Recall (High/Low risk): .91/.94 </font>
 
-<font color="blue"> Bothe balanced accuracy score and recall are looking good. </font>
+<font color="blue"> Both balanced accuracy score and recall are looking good. </font>
 
 ## Summary: 
 
