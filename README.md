@@ -12,32 +12,32 @@ The summary describes the recommendation of model to use to predict credit card 
 ## Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
 ### Naive Random Oversampling
-![date_search](https://github.com/Meghajain84/UFOs/blob/main/static/images/date_search.PNG)
+![Naive_Random_Oversampling](https://github.com/Meghajain84/Credit_Risk_Analysis/blob/main/Naive_Random_Oversampling.PNG)
 
 para
 
 ### SMOTE Oversampling
-![date_search](https://github.com/Meghajain84/UFOs/blob/main/static/images/date_search.PNG)
+![SMOTE_Oversampling](https://github.com/Meghajain84/Credit_Risk_Analysis/blob/main/SMOTE_Oversampling.PNG)
 
 para
 
 ### Cluster Centroid Undersampling
-![date_search](https://github.com/Meghajain84/UFOs/blob/main/static/images/date_search.PNG)
+![ClusterCentroids_Undersampling](https://github.com/Meghajain84/Credit_Risk_Analysis/blob/main/ClusterCentroids_Undersampling.PNG)
 
 para
 
 ### SMOTEEN Combination (Over and Under) Sampling
-![date_search](https://github.com/Meghajain84/UFOs/blob/main/static/images/date_search.PNG)
+![SMOTEEN](https://github.com/Meghajain84/Credit_Risk_Analysis/blob/main/SMOTEEN.PNG)
 
 para
 
 ### Balanced Random Forest Classifier
-![date_search](https://github.com/Meghajain84/UFOs/blob/main/static/images/date_search.PNG)
+![BalanceRandomForest](https://github.com/Meghajain84/Credit_Risk_Analysis/blob/main/BalanceRandomForest.PNG)
 
 para
 
 ### Easy Ensemble AdaBoost Classifier
-![date_search](https://github.com/Meghajain84/UFOs/blob/main/static/images/date_search.PNG)
+![EasyEnsemble](https://github.com/Meghajain84/Credit_Risk_Analysis/blob/main/EasyEnsemble.PNG)
 
 para
 
