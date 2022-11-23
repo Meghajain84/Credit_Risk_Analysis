@@ -18,7 +18,7 @@ The summary describes the recommendation of model to use to predict credit card 
 * <font color="blue"> Precision (High/Low risk): .01/1 </font>
 * <font color="blue"> Recall (High/Low risk): .62/.65 </font>
 
-<font color="blue"> Both balanced accuracy score and recall for high risk is not looking that great. </font>
+<font color="blue"> Both balanced accuracy score and recall for high risk are not looking that great. </font>
 
 ### SMOTE Oversampling
 ![SMOTE_Oversampling](https://github.com/Meghajain84/Credit_Risk_Analysis/blob/main/SMOTE_Oversampling.PNG)
@@ -27,7 +27,7 @@ The summary describes the recommendation of model to use to predict credit card 
 * <font color="blue"> Precision (High/Low risk): .01/1 </font>
 * <font color="blue"> Recall (High/Low risk): .62/.64 </font>
 
-<font color="blue"> Both balanced accuracy score and recall for high risk is not looking great. </font>
+<font color="blue"> Both balanced accuracy score and recall for high risk are not looking great. </font>
 
 ### Cluster Centroid Undersampling
 ![ClusterCentroids_Undersampling](https://github.com/Meghajain84/Credit_Risk_Analysis/blob/main/ClusterCentroids_Undersampling.PNG)
@@ -36,7 +36,7 @@ The summary describes the recommendation of model to use to predict credit card 
 * <font color="blue"> Precision (High/Low risk): .01/1 </font>
 * <font color="blue"> Recall (High/Low risk): .61/.45 </font>
 
-<font color="blue"> Both balanced accuracy score and recall for high risk is not looking great. </font>
+<font color="blue"> Both balanced accuracy score and recall for high risk are not looking great. </font>
 
 ### SMOTEEN Combination (Over and Under) Sampling
 ![SMOTEEN](https://github.com/Meghajain84/Credit_Risk_Analysis/blob/main/SMOTEEN.PNG)
@@ -45,7 +45,7 @@ The summary describes the recommendation of model to use to predict credit card 
 * <font color="blue"> Precision (High/Low risk): .01/1 </font>
 * <font color="blue"> Recall (High/Low risk): .70/.57 </font>
 
-<font color="blue"> Both balanced accuracy score and recall for high risk is not looking great. </font>
+<font color="blue"> Both balanced accuracy score and recall for high risk are not looking great. </font>
 
 ### Balanced Random Forest Classifier
 ![BalanceRandomForest](https://github.com/Meghajain84/Credit_Risk_Analysis/blob/main/BalanceRandomForest.PNG)
@@ -63,7 +63,7 @@ The summary describes the recommendation of model to use to predict credit card 
 * <font color="blue"> Precision (High/Low risk): .07/1 </font>
 * <font color="blue"> Recall (High/Low risk): .91/.94 </font>
 
-<font color="blue"> Balanced accuracy score looks good, and recall also looks good. </font>
+<font color="blue"> Bothe balanced accuracy score and recall are looking good. </font>
 
 ## Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
 
