@@ -9,7 +9,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 The summary describes the recommendation of model to use to predict credit card risk.
 
-## Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
+## Results: 
 
 ### Naive Random Oversampling
 ![Naive_Random_Oversampling](https://github.com/Meghajain84/Credit_Risk_Analysis/blob/main/Naive_Random_Oversampling.PNG)
@@ -65,7 +65,7 @@ The summary describes the recommendation of model to use to predict credit card 
 
 <font color="blue"> Bothe balanced accuracy score and recall are looking good. </font>
 
-## Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+## Summary: 
 
 Sensitivity is more important in our scenario. A test with high sensitivity means few false negatives, though there may be a high number of false positives. In this context, false positives are preferable to false negatives. It’s better to rule out false positive credit risks than to miss applicants who actually are at credit risk.
 
